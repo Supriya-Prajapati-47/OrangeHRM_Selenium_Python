@@ -14,7 +14,6 @@ This repository contains Python scripts utilizing Selenium WebDriver for web aut
 
 ## Quality Objectives
 - Verify that the application meets specified functional requirements.
-- Identify defects.
 
 ## Test Environment
 - Web Browser = Chrome
