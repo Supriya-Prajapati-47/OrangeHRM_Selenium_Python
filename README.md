@@ -4,7 +4,8 @@ This repository contains Python scripts utilizing Selenium WebDriver for web aut
 
 ## What are tested in this project
 - Login Via. Global Admin
-- Creating Employee Account With Dedicated Username & Password
+- Go To "PIM" section
+- Create Employee Account With Dedicated Username & Password
 - Go To "Buzz" Section & Post Something
 - Login Via. Employee Account
 - Go To "Buzz" Section, Like & Comment on Post, Posted By Admin Account
